@@ -1,5 +1,5 @@
 
-#  HOME WORK #3 Task #2
+#  HOME WORK #3 Task # 2
 
 import random
 try:

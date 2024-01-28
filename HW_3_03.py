@@ -1,5 +1,5 @@
 
-#  HOME WORK #3 Task #3
+#  HOME WORK #3 Task # 3
 
 import re
 raw_numbers = [

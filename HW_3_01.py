@@ -1,5 +1,5 @@
 
-#  HOME WORK #3 Task #1
+#  HOME WORK #3 Task # 1
 
 from datetime import datetime
 
